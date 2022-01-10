@@ -1,0 +1,66 @@
+nav {
+border-bottom: 1px solid rgb(218, 214, 214);
+height: 60px;
+}
+
+.navbar-brand {
+    font-family: 'Pushster', cursive;
+     padding-left: 165px; 
+     font-size: 25px !important; 
+     font-weight: lighter !important;
+}
+
+.navbar-nav {
+    padding-right: 160px;
+    margin-top: 14px;
+}
+
+form {
+    padding-left: 200px;
+}
+
+.fa-home,
+.fa-facebook-messenger,
+.fa-plus-square,
+.fa-compass,
+.fa-heart,
+.fa-comment,
+.fa-location-arrow,
+.fa-bookmark,
+.fa-smile {
+    font-size: 23px;
+    color: black;
+    padding-left: 8px;
+}
+
+.container {
+    width: 80%;
+}
+
+.row-fluid {
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  .row-fluid .col-sm-3 {
+    display: inline-block;
+    float: none;
+  }
+
+  .carousel-control-prev-icon {
+    margin-left: -50px;
+    margin-top: -38px;
+  }
+
+  .carousel-control-next-icon {
+    margin-right: -50px;
+    margin-top: -38px;
+  }
+
+  .card-img-top {
+      border: 2px solid rgb(236, 17, 163);
+      border-radius: 25px;
+      padding: 1px;
+  }
+
+ 
